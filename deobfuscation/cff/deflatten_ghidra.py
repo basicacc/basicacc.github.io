@@ -1,0 +1,1 @@
+file:///home/eyes/Documents/reversing/c_rev/deflatten_ghidra.py
